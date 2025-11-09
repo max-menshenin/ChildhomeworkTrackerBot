@@ -1,0 +1,33 @@
+[
+  {
+    "phoneNumber": "PHONE",
+    "children": [
+      { "registrationNumber": "1001" },
+      { "registrationNumber": "1002" },
+      { "registrationNumber": "1003" }
+    ]
+  },
+  {
+    "phoneNumber": "PHONE",
+    "children": [
+      { "registrationNumber": "1003" },
+      { "registrationNumber": "1001" }
+    ]
+  },
+  {
+    "phoneNumber": "PHONE",
+    "children": [
+      { "registrationNumber": "1001" },
+      { "registrationNumber": "1002" },
+      { "registrationNumber": "1003" }
+    ]
+  },
+  {
+    "phoneNumber": "PHONE",
+    "children": [
+      { "registrationNumber": "1001" },
+      { "registrationNumber": "1002" },
+      { "registrationNumber": "1003" }
+    ]
+  }
+]
